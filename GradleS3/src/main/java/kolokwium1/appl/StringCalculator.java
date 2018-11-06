@@ -2,7 +2,6 @@ package kolokwium1.appl;
 import kolokwium1.excp.BadInputException;
 import kolokwium1.excp.NothingToSubstractFromException;
 import kolokwium1.excp.TooBigNumberException;
-import org.graalvm.compiler.core.common.type.ArithmeticOpTable;
 
 import java.io.IOException;
 import java.io.BufferedWriter;
