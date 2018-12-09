@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="GradleS3" external.linked.project.path="$MODULE_DIR$/../../GradleS3" external.root.project.path="$MODULE_DIR$/../../GradleS3" external.system.id="GRADLE" external.system.module.group="GradleS3" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../GradleS3">
+      <excludeFolder url="file://$MODULE_DIR$/../../GradleS3/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../GradleS3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../GradleS3/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:8.0.13" level="project" />
+    <orderEntry type="library" name="io.indico:indico:3.1.0" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-web:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-swing:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-base:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-fxml:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-controls:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-media:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-graphics:11" level="project" />
+  </component>
+</module>

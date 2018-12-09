@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleS3.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleS3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleS3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleS3_main.iml" group="GradleS3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleS3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleS3_test.iml" group="GradleS3" />
       <module fileurl="file://$PROJECT_DIR$/JavaS3.iml" filepath="$PROJECT_DIR$/JavaS3.iml" />
     </modules>
   </component>
