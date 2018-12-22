@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="people.Controller">
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+    <children>
+        <Pane prefHeight="400.0" prefWidth="650.0">
+            <children>
+                <Button layoutX="543.0" layoutY="66.0" mnemonicParsing="false" onAction="#test" text="Add person" />
+                <TextField fx:id="fullName" layoutX="71.0" layoutY="66.0" prefHeight="26.0" prefWidth="150.0" />
+                <TextField fx:id="pesel" layoutX="381.0" layoutY="66.0" prefHeight="26.0" prefWidth="150.0" />
+                <TextField fx:id="phone" layoutX="226.0" layoutY="66.0" prefHeight="26.0" prefWidth="150.0" />
+                <ListView fx:id="listViewFullName" layoutX="71.0" layoutY="115.0" prefHeight="240.0" prefWidth="150.0" />
+                <ListView fx:id="listViewPhone" layoutX="226.0" layoutY="115.0" prefHeight="240.0" prefWidth="150.0" />
+                <ListView fx:id="listViewPesel" layoutX="381.0" layoutY="115.0" prefHeight="240.0" prefWidth="150.0" />
+                <Label layoutX="113.0" layoutY="33.0" prefHeight="16.0" prefWidth="67.0" text="Full Name" />
+                <Label layoutX="278.0" layoutY="33.0" prefHeight="16.0" prefWidth="47.0" text="Phone" />
+                <Label layoutX="433.0" layoutY="33.0" prefHeight="16.0" prefWidth="47.0" text="Pesel" />
+                <Label layoutX="43.0" layoutY="92.0" text="Id" />
+                <ListView fx:id="listViewId" layoutX="15.0" layoutY="115.0" prefHeight="240.0" prefWidth="47.0" />
+            </children>
+        </Pane>
+    </children>
+</GridPane>
